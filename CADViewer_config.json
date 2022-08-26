@@ -1,0 +1,27 @@
+{
+    "ServerPort" : 3000,
+    "ServerUrl" : "http://localhost:3000",
+    "ServerFrontEndUrl" : "http://localhost:8000",
+    "ServerLocation" : "/opt/cadviewer-conversion-server/",
+    "fileLocation" : "/opt/cadviewer-conversion-server/converters/files/",
+    "fileLocationUrl" : "http://localhost:3000/converters/files/",
+    "converterLocation" : "/opt/cadviewer-conversion-server/converters/ax2023/linux/",
+    "fontLocation" : "/opt/cadviewer-conversion-server/converters/ax2023/linux/fonts/",
+    "ax2023_executable" : "ax2023_L64_23_05_88",
+    "cvjs_svgz_compress" : true,
+    "licenseLocation" : "/opt/cadviewer-conversion-server/converters/ax2023/linux/",
+    "xpathLocation" : "/opt/cadviewer-conversion-server/converters/xpath/",
+    "callbackMethod" : "getcadviewercontent",
+    "remainOnServer" : true,
+    "cvjs_debug" : true,
+    "temp_print_folder" : "/opt/cadviewer-conversion-server/temp_print",
+	"dwgmergeLocation" : "/opt/cadviewer-conversion-server/converters/dwgmerge2023/linux/",
+	"dwgmerge2020_executable" : "DwgMerge_2023_L64_23_02_01",
+	"linklistLocation" : "/opt/cadviewer-conversion-server/converters/linklist2023/linux/",
+	"linklist2023_executable" : "LinkList_2023_L64_23_05_25",
+    "custom_bearerAutentication" : "d5d483e8-2f8d-463e-cc01-f41a78b1d94c",
+    "mysqlHost" : "localhost",
+    "mysqlUsername" : "root",
+    "mysqlPassword" : "" 
+}	
+	
