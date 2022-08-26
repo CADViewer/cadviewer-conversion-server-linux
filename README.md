@@ -4,6 +4,11 @@ The CADViewer NodeJS Conversion server on Linux (/opt/cadviewer-conversion-serve
 
 The repository contains a full setup including converters and NodeJS controlling script
 
+If installing on Windows, please use the repository: [cadviewer-conversion-server](https://github.com/CADViewer/cadviewer-conversion-server)
+
+
+
+
 
 ## This package contains
 
