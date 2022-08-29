@@ -35,13 +35,17 @@ Read the sections on installing and handling [Fonts](https://tailormade.com/ax20
 2: Depending on the implementation, ServerFrontEndUrl may change. 
 
 
-3:  Ensure that all executables have chmod 777 permission and that the /converters/files folder has full read and write permission also. 
+3: Ensure that all executables have chmod 777 permission, so executables in /converters/ax2023/linux/, /converters/linklist2023/linux/ , /converters/dwgmerge2023/linux folders 
 
-4: This install includes the AutoXchange 2023 converter, but if needed, it can be updated from our [download](https://cadviewer.com/download) resources.
+4: Ensure that /converters/files folder has full read and write permission. 
 
-5: The [CADViewer](https://cadviewer.com/cadviewertechdocs) front-end can be found from our [download](https://cadviewer.com/download) resources, or installed directly from npm with: **npm i cadviewer**.
+5: Ensure that the subfolders /converters/files/merged/, /converters/files/pdf/, /converters/files/print/ folders have full read and write permission. 
 
-6: See [Business Extensions to Handlers](https://cadviewer.com/cadviewertechdocs/handlers_business/) and [CADViewer RESTFUL API](https://cadviewer.com/cadviewertechdocs/rest_api/) to extend the back-end with a customExtension for reading of Blobs/internal datastructure, etc. 
+6: This install includes the AutoXchange 2023 converter, but if needed, it can be updated from our [download](https://cadviewer.com/download) resources.
+
+7: The [CADViewer](https://cadviewer.com/cadviewertechdocs) front-end can be found from our [download](https://cadviewer.com/download) resources, or installed directly from npm with: **npm i cadviewer**.
+
+8: See [Business Extensions to Handlers](https://cadviewer.com/cadviewertechdocs/handlers_business/) and [CADViewer RESTFUL API](https://cadviewer.com/cadviewertechdocs/rest_api/) to extend the back-end with a customExtension for reading of Blobs/internal datastructure, etc. 
 
 
 
