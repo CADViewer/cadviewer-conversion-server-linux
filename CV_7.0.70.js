@@ -1,4 +1,4 @@
-var version = "CADViewer Server v7.0.61";
+var version = "CADViewer Server v7.0.70";
 const express = require('express');
 const httprequest = require('request');
 const app = express();
@@ -31,7 +31,7 @@ var returnpdfparams = require("./routes/returnpdfparams_cv6.5.9.js");
 var temp_print = require("./routes/temp_print_cv6.5.9.js");
 var files = require("./routes/files_cv6.5.9.js");
 var mergedwg = require("./routes/mergedwg_cv6.5.9.js");
-var loadfile = require("./routes/loadfile_cv7.0.14.js");
+var loadfile = require("./routes/loadfile_cv7.0.70.js");
 var directload = require("./routes/directload_cv6.5.9.js");
 var directloadcadviewer = require("./routes/directloadcadviewer_cv6.8.80.js");
 
