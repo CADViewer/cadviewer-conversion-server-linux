@@ -41,11 +41,19 @@ Read the sections on installing and handling [Fonts](https://tailormade.com/ax20
 
 5: Ensure that the subfolders /converters/files/merged/, /converters/files/pdf/, /converters/files/print/ folders have full read and write permission. 
 
-6: This install includes the AutoXchange 2023 converter, but if needed, it can be updated from our [download](https://cadviewer.com/download) resources.
+6: If upload to folders for Files, Redlines, ImageIcons, SpaceObject, each of those folders needs full read and write permissions. The folders are defined with the following API settings, and needs server side permissions as well. 
 
-7: The [CADViewer](https://cadviewer.com/cadviewertechdocs) front-end can be found from our [download](https://cadviewer.com/download) resources, or installed directly from npm with: **npm i cadviewer**.
+ 	cadviewer.cvjs_setServerFileLocation_AbsolutePaths(ServerLocation+'/content/drawings/dwg/', ServerBackEndUrl+'content/drawings/dwg/',"","");
+		cadviewer.cvjs_setRedlinesAbsolutePath(ServerBackEndUrl+'/content/redlines/v7/', ServerLocation+'/content/redlines/v7/');
+		cadviewer.cvjs_setSpaceObjectsAbsolutePath(ServerBackEndUrl+'/content/spaceObjects/', ServerLocation+'/content/spaceObjects/');
+		cadviewer.cvjs_setInsertImageObjectsAbsolutePath(ServerBackEndUrl+'/content/inserted_image_objects/', ServerLocation+'/content/inserted_image_objects/')
 
-8: See [Business Extensions to Handlers](https://cadviewer.com/cadviewertechdocs/handlers_business/) and [CADViewer RESTFUL API](https://cadviewer.com/cadviewertechdocs/rest_api/) to extend the back-end with a customExtension for reading of Blobs/internal datastructure, etc. 
+
+7: This install includes the AutoXchange 2023 converter, but if needed, it can be updated from our [download](https://cadviewer.com/download) resources.
+
+8: The [CADViewer](https://cadviewer.com/cadviewertechdocs) front-end can be found from our [download](https://cadviewer.com/download) resources, or installed directly from npm with: **npm i cadviewer**.
+
+9: See [Business Extensions to Handlers](https://cadviewer.com/cadviewertechdocs/handlers_business/) and [CADViewer RESTFUL API](https://cadviewer.com/cadviewertechdocs/rest_api/) to extend the back-end with a customExtension for reading of Blobs/internal datastructure, etc. 
 
 
 
