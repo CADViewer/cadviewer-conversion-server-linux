@@ -7,7 +7,7 @@
     "fileLocationUrl" : "http://localhost:3000/converters/files/",
     "converterLocation" : "/opt/cadviewer-conversion-server/converters/ax2023/linux/",
     "fontLocation" : "/opt/cadviewer-conversion-server/converters/ax2023/linux/fonts/",
-    "ax2023_executable" : "ax2023_L64_23_05_88",
+    "ax2023_executable" : "ax2023_L64_23_05_89",
     "cvjs_svgz_compress" : true,
     "licenseLocation" : "/opt/cadviewer-conversion-server/converters/ax2023/linux/",
     "xpathLocation" : "/opt/cadviewer-conversion-server/converters/xpath/",
