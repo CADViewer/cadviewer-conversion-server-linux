@@ -91,11 +91,12 @@ console.log("dirnaem = "+dirname)
 						if (config.cvjs_debug) console.log("error savefile: "+err);
 						res.send("error savefile: "+err);	
 				}
-				else
+				else{
 					fs.close(fd, function() {
 						if (config.cvjs_debug) console.log('file written');
 						res.send("Succes");	
 					})
+                }
 			});
 		});
 	}

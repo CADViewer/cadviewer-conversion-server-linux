@@ -57,17 +57,19 @@ router.post('/makesinglepagepdf', (req, res) => {
                         exec(commandline, (err, stdout, stderr) => {
                           if (err) {
                             // node couldn't execute the command
-                            if (config.cvjs_debug) console.log("Error exec() "+err);
+                            if (config.cvjs_debug) console.log("Error exec(): "+err);
                             // error handling, method response with error 
-                            return;
+                            res.send("error - makesinglepagepdf");  // no file
+
+                            //return;    7.1.3  , error handled by err, 
                           }
-                          
-                          // the *entire* stdout and stderr (buffered)
-                          if (config.cvjs_debug) console.log(`stdout-log: ${stdout}`);
-                          if (config.cvjs_debug) console.log(`stderr-log: ${stderr}`);
-                          
-                // return link to pdf
-                          res.send(fileName +".pdf");
+                          else{
+                            // the *entire* stdout and stderr (buffered)
+                            if (config.cvjs_debug) console.log(`stdout-log: ${stdout}`);
+                            if (config.cvjs_debug) console.log(`stderr-log: ${stderr}`);
+                    // return link to pdd
+                            res.send(fileName +".pdf");
+                          }
                                 
                         });	
     

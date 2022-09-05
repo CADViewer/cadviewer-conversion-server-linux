@@ -71,18 +71,19 @@ router.post('/copyfile', (req, res) => {
                             
             fs.copyFile( inputFile, outputFile, function(err, data) {
                 if (err){
+                    if (config.cvjs_debug) console.log("err:"+err+"XXXXXX");
                     //throw err;
                     res.send("error -copyfile: "+err);  // no file
-                    if (config.cvjs_debug) console.log(err);
                 }
-                else
+                else{
                     if (config.cvjs_debug) console.log("file copied!");
                     res.send("Succes");
+                }
             });	
         }
         catch (e) {
+            if (config.cvjs_debug) console.log("copyfile error: "+e);
             res.send("error - loadredline");  // no file
-            if (config.cvjs_debug) console.log(e);
         }
     });
     

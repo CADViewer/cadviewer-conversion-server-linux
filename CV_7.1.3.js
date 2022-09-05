@@ -1,4 +1,4 @@
-var version = "CADViewer Server v7.1.1";
+var version = "CADViewer Server v7.1.3";
 const express = require('express');
 const httprequest = require('request');
 const app = express();
@@ -20,11 +20,12 @@ app.use(express.static('cadviewer'))
 // 6.5.09  - DLL load
 //var ffi = require('ffi');
 
-var makesinglepagepdf = require("./routes/makesinglepagepdf_cv7.0.26.js");
+var makesinglepagepdf = require("./routes/makesinglepagepdf_cv7.1.3.js");
 var makethumbnails = require("./routes/makethumbnails_cv6.5.8.js");
-var copyfile = require("./routes/copyfile_cv6.5.10.js");
-var savefile = require("./routes/savefile_cv7.0.25.js");
-var appendfile = require("./routes/appendfile_cv6.5.10.js");
+var copyfile = require("./routes/copyfile_cv7.1.3.js");
+var savefile = require("./routes/savefile_cv7.1.3.js");
+var mergeemail = require("./routes/mergeemail_cv7.1.3.js");
+var appendfile = require("./routes/appendfile_cv7.1.3.js");
 var getCADViewerContent = require("./routes/getcadviewercontent_cv7.1.1.js");
 var returnpdfparams = require("./routes/returnpdfparams_cv6.5.9.js");
 var returnpdfparams = require("./routes/returnpdfparams_cv6.5.9.js");
@@ -37,7 +38,7 @@ var directloadcadviewer = require("./routes/directloadcadviewer_cv7.1.1.js");
 
 var directload2 = require("./routes/directload2_cv7.0.25.js");
 var uploadfile = require("./routes/uploadfile_cv6.8.83.js");
-var saveredline = require("./routes/saveredline_cv6.7.45.js");
+var saveredline = require("./routes/saveredline_cv7.1.3.js");
 var listdirectory = require("./routes/listdirectory_cv6.7.45.js");
 var listdirectoryredlines = require("./routes/listdirectoryredlines_cv6.7.45.js");
 var loadredline = require("./routes/loadredlines_cv6.7.46.js");
@@ -112,6 +113,7 @@ app.use(function(req, res, next) {
 
 // CADViewer  - handlers
 
+app.post('/mergeemail', mergeemail);
 app.post('/returnpdfparams', returnpdfparams);
 app.post('/loadredline', loadredline);
 app.post('/uploadfile', uploadfile);
