@@ -1,6 +1,7 @@
 {
     "ServerPort" : 3000,
     "ServerUrl" : "http://localhost:3000",
+    "https" : false,
     "ServerFrontEndUrl" : "http://localhost:8000",
     "ServerLocation" : "/opt/cadviewer-conversion-server/",
     "fileLocation" : "/opt/cadviewer-conversion-server/converters/files/",
