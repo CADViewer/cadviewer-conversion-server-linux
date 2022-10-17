@@ -37,7 +37,7 @@ router.post('/copyfile', (req, res) => {
             outputFile = outputFile.replace(/%2F/g, '/');
             outputFile = outputFile.replace(/%20/g, ' ');
     
-            if (inputFile.indexOf(config.ServerFrontEndUrl)==0){
+			if (inputFile.indexOf(config.ServerFrontEndUrl)==0 && (inputFile.indexOf(config.ServerUrl)!=0)){
                     // the ServerUrl is replaced with ServerLocation
                     inputFile = config.ServerLocation + inputFile.substring(config.ServerFrontEndUrl.length);
             }else{

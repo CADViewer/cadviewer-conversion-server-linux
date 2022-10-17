@@ -3,8 +3,10 @@ var cvjs_debug = config.cvjs_debug;
 var globalCounter = 0;
 
 const httprequest = require('request');
+var http = require('http');
+var urlExists = require('url-exists');
 
-var customendpointextension = require('./cvjs_customConversionEndpointExtension_cv7.1.16.js');
+var customendpointextension = require('./cvjs_customConversionEndpointExtension_cv7.2.5.js');
 
 var customConversionEndpointExtension = false;
 
@@ -12,7 +14,6 @@ var contentLocationOrg = "";
 
 var crypto = require("crypto");
 
- 
 var express = require('express'),
     router = express.Router();
 
@@ -305,70 +306,106 @@ var express = require('express'),
                             
                 var newcontentLocation = config.fileLocation + tempFileName + fileFormat;			
                 var fs = require('fs');
-                httprequest(contentLocation).pipe(fs.createWriteStream(newcontentLocation))
-                .on('error', () => {
-                    console.log('ERROR - httprequest/createWriteStream does this location exist?: '+contentLocation);
-                  })
-                .on('finish', () => {
+
+                // 7.2.5  - add password check
+                if (config.fileLoad_PasswordAuthentication == true){
+                    // find the location of //
+                    var location = contentLocation.indexOf("//")+1;
+                    // split the contentlocation
+                    var part1 = contentLocation.substring(0, location);
+                    var part2 = contentLocation.substring(location+1);
+                    // add username and password, and glue them back together
+                    contentLocation = part1 + config.fileLoad_UserName + ':' + config.fileLoad_Password + '@'+part2;
+                }
+
+
+
+                var hostname = "";
+                if (contentLocation.indexOf("//") > -1) {
+                    hostname = contentLocation.split('/')[0]+"//"+contentLocation.split('/')[2];
+                } else {
+                    hostname = contentLocation.split('/')[0];
+                }
+    
+                urlExists(hostname, function(err, exists) {
+                    console.log(hostname+' '+exists); // true 
+                    if (exists) 
+                        httprequest(contentLocation).pipe(fs.createWriteStream(newcontentLocation))
+                        .on('error', () => {
+                            console.log('ERROR - httprequest/createWriteStream does this location exist?: '+contentLocation);
+                        })
+                        .on('finish', () => {
+                                        
+                            contentLocation = newcontentLocation;
+                                        
+                                // building the command line
+                                var commandline = "";
+        
+                                if (!splityflag){  // standard processing
+                                    commandline =config.linklistLocation + config.linklist2023_executable+" "+"-i=\""+contentLocation+"\" -o=\""+writeFile+"\" ";		
+                                    commandline = commandline + parameters;		
+                                }
+                                else{  // splitter processing  - no output file specified
+                                    commandline =config.linklistLocation + config.linklist2023_executable+" "+"-i=\""+contentLocation+"\" ";		
+                                    commandline = commandline + parameters;		
+                                }
                                 
-                    contentLocation = newcontentLocation;
+                                if (cvjs_debug) if (config.cvjs_debug) console.log("Commandline: "+commandline+"XXX");
                                 
-                        // building the command line
-                        var commandline = "";
-
-                        if (!splityflag){  // standard processing
-                            commandline =config.linklistLocation + config.linklist2023_executable+" "+"-i=\""+contentLocation+"\" -o=\""+writeFile+"\" ";		
-                            commandline = commandline + parameters;		
-                        }
-                        else{  // splitter processing  - no output file specified
-                            commandline =config.linklistLocation + config.linklist2023_executable+" "+"-i=\""+contentLocation+"\" ";		
-                            commandline = commandline + parameters;		
-                        }
-                        
-                        if (cvjs_debug) if (config.cvjs_debug) console.log("Commandline: "+commandline+"XXX");
-                        
-                        // execute linklist2022
-                            
-                        const { exec } = require('child_process');
-                        exec(commandline, (err, stdout, stderr) => {
-                          if (err) {
-                            // node couldn't execute the command
-                            if (config.cvjs_debug) console.log("Error exec() "+err);
-                            
-                            // error handling, method response with error 
-                            
-                            return;
-                          }
-                          // the *entire* stdout and stderr (buffered)
-                          if (config.cvjs_debug) console.log(`stdout-log: ${stdout}`);
-                          if (config.cvjs_debug) console.log(`stderr-log: ${stderr}`);                
-                          if (config.cvjs_debug) console.log("action= "+action);
-
-
-                          // if splitfile, then copy splitter to temp folder
-                          console.log("splityflag: "+splityflag);
-
-
-
-                            if (splityflag){    // 7.0.26
-                                // if splitterfile then inputFile file is contentLocation + splitter.json
-                                var inputFile = contentLocation.substring(0, contentLocation.lastIndexOf("."))+"_split_details.json";
-                            
-                                console.log("SPLIT inputfile "+inputFile);
-                                var fs = require('fs');						
-                                fs.copyFile( inputFile, writeFile, function(err, data) {
-                                    if (err){
-                                        if (config.cvjs_debug) console.log(err);
+                                // execute linklist2022
+                                    
+                                const { exec } = require('child_process');
+                                exec(commandline, (err, stdout, stderr) => {
+                                if (err) {
+                                    // node couldn't execute the command
+                                    if (config.cvjs_debug) console.log("Error exec() "+err);
+                                    
+                                    // error handling, method response with error 
+                                    
+                                    return;
+                                }
+                                // the *entire* stdout and stderr (buffered)
+                                if (config.cvjs_debug) console.log(`stdout-log: ${stdout}`);
+                                if (config.cvjs_debug) console.log(`stderr-log: ${stderr}`);                
+                                if (config.cvjs_debug) console.log("action= "+action);
+        
+        
+                                // if splitfile, then copy splitter to temp folder
+                                console.log("splityflag: "+splityflag);
+        
+        
+        
+                                    if (splityflag){    // 7.0.26
+                                        // if splitterfile then inputFile file is contentLocation + splitter.json
+                                        var inputFile = contentLocation.substring(0, contentLocation.lastIndexOf("."))+"_split_details.json";
+                                    
+                                        console.log("SPLIT inputfile "+inputFile);
+                                        var fs = require('fs');						
+                                        fs.copyFile( inputFile, writeFile, function(err, data) {
+                                            if (err){
+                                                if (config.cvjs_debug) console.log(err);
+                                            }
+                                            else
+                                                if (config.cvjs_debug) console.log("file copied!");
+                                                LinkList2023_callback(res, outputFormat, contentLocation, config.ServerUrl+"/"+config.callbackMethod, tempFileName, splityflag);	                                        
+                                            });	
                                     }
-                                    else
-                                        if (config.cvjs_debug) console.log("file copied!");
+                                    else   // standard callback
                                         LinkList2023_callback(res, outputFormat, contentLocation, config.ServerUrl+"/"+config.callbackMethod, tempFileName, splityflag);	                                        
-                                    });	
-                            }
-                            else   // standard callback
-                                LinkList2023_callback(res, outputFormat, contentLocation, config.ServerUrl+"/"+config.callbackMethod, tempFileName, splityflag);	                                        
-                    });	    
-               });;			                                                            
+                            });	    
+                    });
+                    else{
+                        // cannot load file
+                        console.log('location does not exist:'+contentLocation);                            
+                        var CVJSresponse = "{\"completedAction\":\"data_extraction\",\"errorCode\":\"E"+1+"\",\"converter\":\"LinkList2023\",\"version\":\"V2.00\",\"userLabel\":\"fromCADViewerJS\",\"tempFile\":\""+tempFileName+"."+outputFormat+"\",\"contentLocation\":\""+contentLocationOrg+"\",\"contentResponse\":\"stream\",\"contentStreamData\":\""+callbackMethod+"?remainOnServer="+remainOnServer+"&fileTag="+tempFileName+"&Type="+outputFormat+"\"}";
+                        res.send(CVJSresponse);
+                        return;
+                    }			                                                            
+
+
+                });
+
+
             }
             else{  // standard execution
             
@@ -624,27 +661,99 @@ var express = require('express'),
 
         var newcontentLocation = config.fileLocation + tempFileName + fileFormat;			
         var fs = require('fs');
-        httprequest(contentLocation).pipe(fs.createWriteStream(newcontentLocation))
-        .on('error', () => {
-            console.log('ERROR');
-        })
-        .on('finish', () => {
-                        
-            contentLocation = newcontentLocation;
-            // if SVG we simply tell the front to pick it up the file back up from its new location
-            if ( fileFormat == ".svg"){
-                    
-                var CVJSresponse = "{\"completedAction\":\"svg_creation\",\"errorCode\":\"E"+0+"\",\"converter\":\"AutoXchange AX2020\",\"version\":\"V1.00\",\"userLabel\":\"fromCADViewerJS\",\"tempFile\":\""+tempFileName+"."+outputFormat+"\",\"contentLocation\":\""+contentLocationOrg+"\",\"contentResponse\":\"stream\",\"contentStreamData\":\""+config.ServerUrl+"/"+config.callbackMethod+"?remainOnServer=1&fileTag="+tempFileName+"&Type=svg\"}";
 
-                if (config.cvjs_debug) console.log(CVJSresponse);
-                // send callback message and terminate
+        if (config.cvjs_debug) console.log("config.fileLoad_PasswordAuthentication: "+ config.fileLoad_PasswordAuthentication);
+
+        // 7.2.5  - add password check
+        if (config.fileLoad_PasswordAuthentication == true){
+            // find the location of //
+            var location = contentLocation.indexOf("//")+2;
+            // split the contentlocation
+            var part1 = contentLocation.substring(0, location);
+            var part2 = contentLocation.substring(location);
+            // add username and password, and glue them back together
+            contentLocation = part1 + config.fileLoad_UserName + ':' + config.fileLoad_Password + '@'+part2;
+
+            if (config.cvjs_debug) {
+                console.log("");
+                console.log("username/password contentLocation:"+contentLocation);
+                console.log("");
+            }            
+        }
+
+        if (config.cvjs_debug) console.log("here..");
+
+        try{
+
+
+
+            var hostname = "";
+            if (contentLocation.indexOf("//") > -1) {
+                hostname = contentLocation.split('/')[0]+"//"+contentLocation.split('/')[2];
+            } else {
+                hostname = contentLocation.split('/')[0];
+            }
+
+            urlExists(hostname, function(err, exists) {
+                console.log(hostname+' '+exists); // true 
+
+                if (exists)
+                    httprequest(contentLocation).pipe(fs.createWriteStream(newcontentLocation))
+                    .on('error', () => {
+                        console.log('ERROR httprequest('+contentLocation+")");
+                        var CVJSresponse = "{\"completedAction\":\"svg_creation\",\"errorCode\":\"E"+0+"\",\"converter\":\"AutoXchange AX2020\",\"version\":\"V1.00\",\"userLabel\":\"fromCADViewerJS\",\"tempFile\":\""+tempFileName+"."+outputFormat+"\",\"contentLocation\":\""+contentLocationOrg+"\",\"contentResponse\":\"stream\",\"contentStreamData\":\""+config.ServerUrl+"/"+config.callbackMethod+"?remainOnServer=1&fileTag="+tempFileName+"&Type=svg\"}";
+                        res.send(CVJSresponse);
+                        return;
+            
+                    })
+                    .on('finish', () => {
+                                    
+                        contentLocation = newcontentLocation;
+                        // if SVG we simply tell the front to pick it up the file back up from its new location
+                        if ( fileFormat == ".svg"){
+                                
+                            var CVJSresponse = "{\"completedAction\":\"svg_creation\",\"errorCode\":\"E"+0+"\",\"converter\":\"AutoXchange AX2020\",\"version\":\"V1.00\",\"userLabel\":\"fromCADViewerJS\",\"tempFile\":\""+tempFileName+"."+outputFormat+"\",\"contentLocation\":\""+contentLocationOrg+"\",\"contentResponse\":\"stream\",\"contentStreamData\":\""+config.ServerUrl+"/"+config.callbackMethod+"?remainOnServer=1&fileTag="+tempFileName+"&Type=svg\"}";
+            
+                            if (config.cvjs_debug) console.log(CVJSresponse);
+                            // send callback message and terminate
+                            res.send(CVJSresponse);
+                            return;
+                        }          
+            
+                        cvjs_buildcommandline_and_execute(outputFormat,contentLocation, parameters, res, writeFile, action, tempFileName);
+                    });	
+                else{
+                    console.log('location does not exist:'+contentLocation);
+                    var CVJSresponse = "{\"completedAction\":\"svg_creation\",\"errorCode\":\"E"+0+"\",\"converter\":\"AutoXchange AX2020\",\"version\":\"V1.00\",\"userLabel\":\"fromCADViewerJS\",\"tempFile\":\""+tempFileName+"."+outputFormat+"\",\"contentLocation\":\""+contentLocationOrg+"\",\"contentResponse\":\"stream\",\"contentStreamData\":\""+config.ServerUrl+"/"+config.callbackMethod+"?remainOnServer=1&fileTag="+tempFileName+"&Type=svg\"}";
+                    res.send(CVJSresponse);
+                    return;
+        
+                }		
+
+            });
+
+            /*
+            var site = http.request({port: 80, host: contentLocation, method : 'PUT'});
+            site.on('error', function(err) {
+                console.debug('ERROR unable to connect to:' + contentLocation); 
+                var CVJSresponse = "{\"completedAction\":\"svg_creation\",\"errorCode\":\"E"+1+"\",\"converter\":\"AutoXchange AX2020\",\"version\":\"V1.00\",\"userLabel\":\"fromCADViewerJS\",\"tempFile\":\""+tempFileName+"."+outputFormat+"\",\"contentLocation\":\""+contentLocationOrg+"\",\"contentResponse\":\"stream\",\"contentStreamData\":\""+config.ServerUrl+"/"+config.callbackMethod+"?remainOnServer=1&fileTag="+tempFileName+"&Type=svg\"}";
                 res.send(CVJSresponse);
                 return;
-            }          
+            });
+            */
+    
 
-            cvjs_buildcommandline_and_execute(outputFormat,contentLocation, parameters, res, writeFile, action, tempFileName);
+        }
+        catch(err){
+            console.log('ERROR httprequest('+contentLocation+"):"+err);
+            var CVJSresponse = "{\"completedAction\":\"svg_creation\",\"errorCode\":\"E"+0+"\",\"converter\":\"AutoXchange AX2020\",\"version\":\"V1.00\",\"userLabel\":\"fromCADViewerJS\",\"tempFile\":\""+tempFileName+"."+outputFormat+"\",\"contentLocation\":\""+contentLocationOrg+"\",\"contentResponse\":\"stream\",\"contentStreamData\":\""+config.ServerUrl+"/"+config.callbackMethod+"?remainOnServer=1&fileTag="+tempFileName+"&Type=svg\"}";
+            res.send(CVJSresponse);
+            return;
 
-    });;			
+            
+        }
+
+
     }                                
 
 

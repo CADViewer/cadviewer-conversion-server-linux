@@ -1,4 +1,4 @@
-var version = "CADViewer Server v7.1.16";
+var version = "CADViewer Server v7.2.5";
 const express = require('express');
 const httprequest = require('request');
 const app = express();
@@ -31,7 +31,7 @@ chrome://flags/#allow-insecure-localhost
 //var ffi = require('ffi');
 
 var makesinglepagepdf = require("./routes/makesinglepagepdf_cv7.1.3.js");
-var copyfile = require("./routes/copyfile_cv7.1.4.js");
+var copyfile = require("./routes/copyfile_cv7.1.17.js");
 var savefile = require("./routes/savefile_cv7.1.16.js");
 var mergeemail = require("./routes/mergeemail_cv7.1.3.js");
 var appendfile = require("./routes/appendfile_cv7.1.16.js");
@@ -41,7 +41,7 @@ var returnpdfparams = require("./routes/returnpdfparams_cv7.1.16.js");
 var makethumbnails = require("./routes/makethumbnails_cv6.5.8.js");
 var temp_print = require("./routes/temp_print_cv7.1.16.js");
 var files = require("./routes/files_cv7.1.16.js");
-var loadfile = require("./routes/loadfile_cv7.1.16.js");
+var loadfile = require("./routes/loadfile_cv7.1.17.js");
 var directload = require("./routes/directload_cv7.1.16.js");
 var directloadcadviewer = require("./routes/directloadcadviewer_cv7.1.16.js");
 
@@ -50,8 +50,8 @@ var uploadfile = require("./routes/uploadfile_cv6.8.83.js");
 var saveredline = require("./routes/saveredline_cv7.1.16.js");
 var listdirectory = require("./routes/listdirectory_cv6.7.45.js");
 var listdirectoryredlines = require("./routes/listdirectoryredlines_cv7.1.16.js");
-var loadredline = require("./routes/loadredlines_cv7.1.16.js");
-var callapiconversion = require("./routes/callapiconversion_cv7.1.16.js");
+var loadredline = require("./routes/loadredlines_cv7.1.17.js");
+var callapiconversion = require("./routes/callapiconversion_cv7.2.5.js");
 
 
 var cvjs_debug = config.cvjs_debug;
@@ -78,6 +78,7 @@ console.log("Release: "+os.release());
 console.log("Platform: "+os.platform()); 
 console.log("Content-Security-Policy: "+config.ContentSecurityPolicy); 
 console.log("CSP report only: "+config.ContentSecurityPolicyReportOnly); 
+console.log("Username/Password Authentication on fileload: "+config.fileLoad_PasswordAuthentication); 
 
 
 

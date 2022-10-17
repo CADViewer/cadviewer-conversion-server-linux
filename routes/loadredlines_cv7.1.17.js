@@ -51,7 +51,7 @@ router.post('/loadredline', (req, res) => {
             if (config.cvjs_debug) console.log('x1: '+inputFile+"  config.ServerFrontEndUrl="+config.ServerFrontEndUrl+" config.ServerUrl="+config.ServerUrl);		
     
         
-            if (inputFile.indexOf(config.ServerFrontEndUrl)==0){
+			if (inputFile.indexOf(config.ServerFrontEndUrl)==0 && (inputFile.indexOf(config.ServerUrl)!=0)){
                     // the ServerUrl is replaced with ServerLocation
                     inputFile = config.ServerLocation + inputFile.substring(config.ServerFrontEndUrl.length);
             }else{

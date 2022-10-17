@@ -11,11 +11,7 @@ function loadFile(req,res){
 	try {
 		        
         // 7.1.16
-        //var origin = req.headers.origin;
-        //var origin = req.get('origin');
-        //console.log("origin:"+req.headers.referer+" "+req.get('Origin')+"  "+req.get('Host')+" "+req.hostname+ "  "+req.header('Origin')+"  config.allowedOrigins.includes(*)"+config.allowedOrigins.includes("*"));
-        
-        
+        //var origin = req.headers.origin;   - we cannot get the headers.origin , so we only allow from config
         if (config.ServerFrontEndUrlAsAllowedOriginOnly == true) {
             res.setHeader('Access-Control-Allow-Origin', config.ServerFrontEndUrl);
             if (cvjs_debug) console.log('Access-Control-Allow-Origin :'+config.ServerFrontEndUrl)
@@ -52,8 +48,10 @@ function loadFile(req,res){
 		inputFile = inputFile.replace(/%2F/g, '/');
 		inputFile = inputFile.replace(/%20/g, ' ');
 
+
+        console.log("inputFile="+inputFile);
 	
-		if (inputFile.indexOf(config.ServerFrontEndUrl)==0){
+		if (inputFile.indexOf(config.ServerFrontEndUrl)==0 && (inputFile.indexOf(config.ServerUrl)!=0)){
             // the ServerFrontEndUrl is replaced with ServerLocation
             inputFile = config.ServerLocation + inputFile.substring(config.ServerFrontEndUrl.length);
         }
@@ -190,7 +188,7 @@ function loadFile(req,res){
 	}
 	catch (e) {
 		res.send("error - loadfile");	
-		if (config.cvjs_debug) console.log(e);
+		if (config.cvjs_debug) console.log("Error loadfile:"+e);
 	}
 	
 //    res.send("hello world!");
