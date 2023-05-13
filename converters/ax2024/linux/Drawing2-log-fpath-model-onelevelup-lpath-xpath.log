@@ -1,0 +1,3307 @@
+Output Name: /opt/cadviewer-conversion-server/converters/ax2024/linux/Drawing2-log-fpath-model-onelevelup-lpath-xpath.svg
+GetFontPath: /opt/cadviewer-conversion-server/converters/ax2025/linux/fonts/
+GetDefaultItalicFont: ARIALI
+CreateMacHash
+MAC Id or IP: 17223248159
+Check if Type is invalid: 4
+Create Hash
+New Hash: cba372cdb5d9a3cde808cac395ca3735ba6c0c3cae7682a2e6a66e3121c543b9
+CreateMacHash
+MAC Id or IP: 17223248*
+Check if Type is invalid: 4
+Create Hash
+New Hash: 524b93375a0e40817e3188372861189ae010942a7c2154b32e650b7bd8c314ae
+CreateMacHash
+MAC Id or IP: 17223**
+Check if Type is invalid: 4
+Create Hash
+New Hash: 75af720e2b09d2226203398e3fe7f3d8ffbeeb9004498dce61c7be7da3238a45
+CreateMacHash
+MAC Id or IP: fe802155dfffe73f229
+Check if Type is invalid: 4
+Create Hash
+New Hash: e8572079484db3a03359fe02fe40304518c2a58866d31441e938ff40e0a8bb34
+CreateMacHash
+MAC Id or IP: fe802155dfffe73*
+Check if Type is invalid: 4
+Create Hash
+New Hash: 1a9758abd9e706d9aae56c0148175cfceb8223cbd711d073ba9c92b3dafab79c
+CreateMacHash
+MAC Id or IP: fe802155dff**
+Check if Type is invalid: 4
+Create Hash
+New Hash: 8a0e82032f28f22139263ee68617551610e1f7d83b2de83f6625c505ea49f77f
+CreateMacHash
+MAC Id or IP: 00155D73F229
+Check if Type is invalid: 4
+Create Hash
+New Hash: 10b453dc38ca995796593aec03230c997eaf38c6e0fc4bb7949251335065ae02
+CreateMacHash
+MAC Id or IP: 00155D73F2*
+Check if Type is invalid: 4
+Create Hash
+New Hash: 298f234a2bb2525c2dfa447da84a6571742718a87306a1470bb0b3f99699fc7f
+CreateMacHash
+MAC Id or IP: 00155D73**
+Check if Type is invalid: 4
+Create Hash
+New Hash: f1d53ae1219bedc4a7bb3a0a0dfde8f01cd95ca938cc486056a5d6a8b2543fb6
+Gateway: 172.23.240.1
+CreateMacHash
+MAC Id or IP: 172232401
+Check if Type is invalid: 4
+Create Hash
+New Hash: ea5e9e33306428d185cf4a027bc40be86d098ab5dccdeb5f3629ac8d9b96a6f0
+Domain Name: localdomain
+CreateMacHash
+MAC Id or IP: localdomain
+Check if Type is invalid: 4
+Create Hash
+New Hash: dd4932f3387757424968a63bbca8d08e302a9e71e59940b927a9047def7a6f8b
+Read AutoXChange 2019 Key
+License Key Path: /opt/cadviewer-conversion-server/converters/ax2024/linux/axlic.key
+License Key Found
+License Key Expired
+Valid License Not Found
+
+Thank you for trying this demo of AutoXChange 2023
+Please contact sales@tailormade.com to purchase
+
+Input file: /opt/cadviewer-conversion-server/converters/ax2024/linux/Drawing2.dwg
+Input File Name: /opt/cadviewer-conversion-server/converters/ax2024/linux/Drawing2.dwg
+Add to XPath: /opt/cadviewer-conversion-server/converters/ax2024/linux/
+Add to fontPath: /opt/cadviewer-conversion-server/converters/ax2025/linux/fonts/
+REPO Mode: 0
+Add to XPath: /opt/cadviewer-conversion-server/converters/
+Input file: /opt/cadviewer-conversion-server/converters/ax2024/linux/Drawing2.dwg
+Read input DWG/DXF file
+AutoCAD file succesfully opened
+Input File Name: /opt/cadviewer-conversion-server/converters/ax2024/linux/Drawing2.dwg
+Get Layer Table
+Get View Table
+Get Layout Table
+-------------------------------------
+Checking File: isocp.shx
+Checking File: isocp.shx
+File Not Found: isocp.shx
+Font Path Count: 1
+Check Font Path Item #: 1
+   Path: /opt/cadviewer-conversion-server/converters/ax2025/linux/fonts/
+Checking: /opt/cadviewer-conversion-server/converters/ax2025/linux/fonts/isocp.shx
+File Not Found: isocp.shx
+Default SHX File Not Found: isocp.shx
+-------------------------------------
+Checking File: arial.ttf
+Checking File: arial.ttf
+File Not Found: arial.ttf
+Font Path Count: 1
+Check Font Path Item #: 1
+   Path: /opt/cadviewer-conversion-server/converters/ax2025/linux/fonts/
+Checking: /opt/cadviewer-conversion-server/converters/ax2025/linux/fonts/arial.ttf
+File Not Found: arial.ttf
+-------------------------------------
+Checking File: arial.ttf
+Checking File: arial.ttf
+File Not Found: arial.ttf
+Font Path Count: 1
+Check Font Path Item #: 1
+   Path: /opt/cadviewer-conversion-server/converters/ax2025/linux/fonts/
+Checking: /opt/cadviewer-conversion-server/converters/ax2025/linux/fonts/arial.ttf
+File Not Found: arial.ttf
+-------------------------------------
+Checking File: romans2.shx
+Checking File: romans2.shx
+File Not Found: romans2.shx
+Font Path Count: 1
+Check Font Path Item #: 1
+   Path: /opt/cadviewer-conversion-server/converters/ax2025/linux/fonts/
+Checking: /opt/cadviewer-conversion-server/converters/ax2025/linux/fonts/romans2.shx
+File Not Found: romans2.shx
+-------------------------------------
+Checking File: dfhz1.shx
+Checking File: dfhz1.shx
+File Not Found: dfhz1.shx
+Font Path Count: 1
+Check Font Path Item #: 1
+   Path: /opt/cadviewer-conversion-server/converters/ax2025/linux/fonts/
+Checking: /opt/cadviewer-conversion-server/converters/ax2025/linux/fonts/dfhz1.shx
+File Not Found: dfhz1.shx
+Start Conversion
+CodePage: CP_ANSI_936
+**** Preprocess File
+Convert to Vector
+Define Generic Defaults
+Define Color Table
+FontMap contains:
+archs => simfang.ttf @ 1,1
+b_gb2312 => simfang.ttf @ 1,1
+b体 => simfang.ttf @ 1,1
+fangsong => simfang.ttf @ 1,1
+fangsong_gb2312 => simfang.ttf @ 1,1
+nsimsun => simfang.ttf @ 1,1
+romans.shx => romans__.ttf @ 1.1,1.1
+romanx.shx => romans__.ttf @ 1.1,1.1
+仿宋_GB2312 => simfang.ttf @ 1,1
+
+StrokeFonts contains:
+techno_m.shx
+In ResetFile SVG
+Set Output Format Pointer
+Fix Output Name: /opt/cadviewer-conversion-server/converters/ax2024/linux/Drawing2-log-fpath-model-onelevelup-lpath-xpath.svg
+Output File Name: /opt/cadviewer-conversion-server/converters/ax2024/linux/Drawing2-log-fpath-model-onelevelup-lpath-xpath.svg
+Create Context Object
+Set Database
+Convert: 1
+ViewName: ModelSpace
+Process Customer Watermark
+Define View: ModelSpace
+DefineView: ModelSpace
+*****Convert To Vector By View
+ConvertToVectorByView
+Set View
+In SetView: 
+Check LayoutName
+Process ModelSpace
+******************* In ProcessModelSpace *********************
+   ViewName: 
+   setCurrentLayout
+    setupActiveLayoutViews
+    after setupActiveLayoutViews
+    getActiveViewportId
+    getEXTMIN/getEXTMAX
+-------------------------------------
+Checking File: romans2.shx
+Checking File: romans2.shx
+File Not Found: romans2.shx
+Font Path Count: 1
+Check Font Path Item #: 1
+   Path: /opt/cadviewer-conversion-server/converters/ax2025/linux/fonts/
+Checking: /opt/cadviewer-conversion-server/converters/ax2025/linux/fonts/romans2.shx
+File Not Found: romans2.shx
+-------------------------------------
+Checking File: simplex.shx
+Checking File: simplex.shx
+File Not Found: simplex.shx
+Font Path Count: 1
+Check Font Path Item #: 1
+   Path: /opt/cadviewer-conversion-server/converters/ax2025/linux/fonts/
+Checking: /opt/cadviewer-conversion-server/converters/ax2025/linux/fonts/simplex.shx
+File Not Found: simplex.shx
+-------------------------------------
+Checking File: romans2.shx
+Checking File: romans2.shx
+File Not Found: romans2.shx
+Font Path Count: 1
+Check Font Path Item #: 1
+   Path: /opt/cadviewer-conversion-server/converters/ax2025/linux/fonts/
+Checking: /opt/cadviewer-conversion-server/converters/ax2025/linux/fonts/romans2.shx
+File Not Found: romans2.shx
+-------------------------------------
+Checking File: simplex.shx
+Checking File: simplex.shx
+File Not Found: simplex.shx
+Font Path Count: 1
+Check Font Path Item #: 1
+   Path: /opt/cadviewer-conversion-server/converters/ax2025/linux/fonts/
+Checking: /opt/cadviewer-conversion-server/converters/ax2025/linux/fonts/simplex.shx
+File Not Found: simplex.shx
+-------------------------------------
+Checking File: dfhz1.shx
+Checking File: dfhz1.shx
+File Not Found: dfhz1.shx
+Font Path Count: 1
+Check Font Path Item #: 1
+   Path: /opt/cadviewer-conversion-server/converters/ax2025/linux/fonts/
+Checking: /opt/cadviewer-conversion-server/converters/ax2025/linux/fonts/dfhz1.shx
+File Not Found: dfhz1.shx
+-------------------------------------
+Checking File: simplex.shx
+Checking File: simplex.shx
+File Not Found: simplex.shx
+Font Path Count: 1
+Check Font Path Item #: 1
+   Path: /opt/cadviewer-conversion-server/converters/ax2025/linux/fonts/
+Checking: /opt/cadviewer-conversion-server/converters/ax2025/linux/fonts/simplex.shx
+File Not Found: simplex.shx
+-------------------------------------
+Checking File: simplex.shx
+Checking File: simplex.shx
+File Not Found: simplex.shx
+Font Path Count: 1
+Check Font Path Item #: 1
+   Path: /opt/cadviewer-conversion-server/converters/ax2025/linux/fonts/
+Checking: /opt/cadviewer-conversion-server/converters/ax2025/linux/fonts/simplex.shx
+File Not Found: simplex.shx
+-------------------------------------
+Checking File: simplex.shx
+Checking File: simplex.shx
+File Not Found: simplex.shx
+Font Path Count: 1
+Check Font Path Item #: 1
+   Path: /opt/cadviewer-conversion-server/converters/ax2025/linux/fonts/
+Checking: /opt/cadviewer-conversion-server/converters/ax2025/linux/fonts/simplex.shx
+File Not Found: simplex.shx
+-------------------------------------
+Checking File: simplex.shx
+Checking File: simplex.shx
+File Not Found: simplex.shx
+Font Path Count: 1
+Check Font Path Item #: 1
+   Path: /opt/cadviewer-conversion-server/converters/ax2025/linux/fonts/
+Checking: /opt/cadviewer-conversion-server/converters/ax2025/linux/fonts/simplex.shx
+File Not Found: simplex.shx
+-------------------------------------
+Checking File: simplex.shx
+Checking File: simplex.shx
+File Not Found: simplex.shx
+Font Path Count: 1
+Check Font Path Item #: 1
+   Path: /opt/cadviewer-conversion-server/converters/ax2025/linux/fonts/
+Checking: /opt/cadviewer-conversion-server/converters/ax2025/linux/fonts/simplex.shx
+File Not Found: simplex.shx
+-------------------------------------
+Checking File: simplex.shx
+Checking File: simplex.shx
+File Not Found: simplex.shx
+Font Path Count: 1
+Check Font Path Item #: 1
+   Path: /opt/cadviewer-conversion-server/converters/ax2025/linux/fonts/
+Checking: /opt/cadviewer-conversion-server/converters/ax2025/linux/fonts/simplex.shx
+File Not Found: simplex.shx
+Not LastSavedView and View Not Set
+    Zoom To Header
+    Zoom to GeomExtents
+Calculate Geometric Extents
+MS Width: 7051.97
+MS Height: 20498.5
+ViewWidth: 861
+ViewHeight: 2500
+Scale Drawing
+SetPaperSize: 0
+SetPaperMode: 0
+FixPaperSize
+SetPaperSize
+onSize
+Generate Drawing: 0
+Reset Extents, CurrentSpace: 0
+    Min Point: 70873.4/71742.3
+    Max Point: 73304.6/73847.3
+*** Text String: {\fSimSun|b0|i0|c134|p2;\u00E5\u00BC\u00B1\u00E7\u0094\u00B5\u00E7\u00BB\u00BC\u00E5\u0090\u0088\u00E7\u00BD\u0091\u00E6\u008E\u00A5\u00E5\u0085\u00A5\u00E4\u00BA\u00A4\u00E6\u008D\u00A2\u00E6\u009C\u00BA}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;\u5F31\u7535\u7EFC\u5408\u7F51\u63A5\u5165\u4EA4\u6362\u673A}
+Entity Extents Min: [70556.0 74009.1 0.0]
+Entity Extents Max: [72420.3 74609.1 0.0]
+-------------------------------------------------------------------
+Set Extents, CurrentSpace: 0
+    Min Point: 70556/74009.1
+    Max Point: 72420.3/74609.1
+------------------- textProc ---------------------
+-----------------------------------------
+FontFilePath:  -------------------------------------
+Checking File: simplex.shx
+Checking File: simplex.shx
+File Not Found: simplex.shx
+Font Path Count: 1
+Check Font Path Item #: 1
+   Path: /opt/cadviewer-conversion-server/converters/ax2025/linux/fonts/
+Checking: /opt/cadviewer-conversion-server/converters/ax2025/linux/fonts/simplex.shx
+File Not Found: simplex.shx
+
+BigFontFilePath:  -------------------------------------
+Checking File: dfhz1.shx
+Checking File: dfhz1.shx
+File Not Found: dfhz1.shx
+Font Path Count: 1
+Check Font Path Item #: 1
+   Path: /opt/cadviewer-conversion-server/converters/ax2025/linux/fonts/
+Checking: /opt/cadviewer-conversion-server/converters/ax2025/linux/fonts/dfhz1.shx
+File Not Found: dfhz1.shx
+
+BigFontFileName:  dfhz1.shx
+isShxFont?: true
+isTtfFont?: false
+isShape?: false
+isShapeLoaded?: false
+Loaded Font Name:  buildin_simple
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+-------------------------------------
+Checking File: simplex.shx
+Checking File: simplex.shx
+File Not Found: simplex.shx
+Font Path Count: 1
+Check Font Path Item #: 1
+   Path: /opt/cadviewer-conversion-server/converters/ax2025/linux/fonts/
+Checking: /opt/cadviewer-conversion-server/converters/ax2025/linux/fonts/simplex.shx
+File Not Found: simplex.shx
+-------------------------------------
+Checking File: dfhz1.shx
+Checking File: dfhz1.shx
+File Not Found: dfhz1.shx
+Font Path Count: 1
+Check Font Path Item #: 1
+   Path: /opt/cadviewer-conversion-server/converters/ax2025/linux/fonts/
+Checking: /opt/cadviewer-conversion-server/converters/ax2025/linux/fonts/dfhz1.shx
+File Not Found: dfhz1.shx
+SHX Font: 
+TTF Font: 
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+lxGetFontPath : SimSun
+     Using Font Name: SimSun
+Entity Extents Min: [73304.0 73189.3 0.0]
+Entity Extents Max: [74385.5 73189.3 0.0]
+-------------------------------------------------------------------
+Set Extents, CurrentSpace: 0
+    Min Point: 73304/73189.3
+    Max Point: 74385.5/73189.3
+*** Text String: {\fSimSun|b0|i0|c134|p2;BA\u00E7\u00B3\u00BB\u00E7\u00BB\u009F\u00E7\u00BD\u0091\u00E7\u00BB\u009C\u00E6\u0095\u00B0\u00E6\u008D\u00AE\u00E7\u0082\u00B9\u00E4\u00BD\u008D}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;BA\u7CFB\u7EDF\u7F51\u7EDC\u6570\u636E\u70B9\u4F4D}
+Entity Extents Min: [74907.7 73137.2 0.0]
+Entity Extents Max: [75850.6 73437.2 0.0]
+-------------------------------------------------------------------
+Set Extents, CurrentSpace: 0
+    Min Point: 74907.7/73137.2
+    Max Point: 75850.6/73437.2
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;TDs}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;TDs}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;\u00E8\u0083\u00BD\u00E8\u0080\u0097\u00E7\u00B3\u00BB\u00E7\u00BB\u009F\u00E7\u00BD\u0091\u00E7\u00BB\u009C\u00E6\u0095\u00B0\u00E6\u008D\u00AE\u00E7\u0082\u00B9\u00E4\u00BD\u008D}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;\u80FD\u8017\u7CFB\u7EDF\u7F51\u7EDC\u6570\u636E\u70B9\u4F4D}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;TDs}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;TDs}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;\u00E6\u0099\u00BA\u00E8\u0083\u00BD\u00E7\u0085\u00A7\u00E6\u0098\u008E\u00E7\u00B3\u00BB\u00E7\u00BB\u009F\u00E7\u00BD\u0091\u00E7\u00BB\u009C\u00E6\u0095\u00B0\u00E6\u008D\u00AE\u00E7\u0082\u00B9\u00E4\u00BD\u008D}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;\u667A\u80FD\u7167\u660E\u7CFB\u7EDF\u7F51\u7EDC\u6570\u636E\u70B9\u4F4D}
+Entity Extents Min: [74907.7 72288.8 0.0]
+Entity Extents Max: [76032.7 72588.8 0.0]
+-------------------------------------------------------------------
+Set Extents, CurrentSpace: 0
+    Min Point: 74907.7/72288.8
+    Max Point: 76032.7/72588.8
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;TDs}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;TDs}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+Entity Extents Min: [70873.4 68514.9 0.0]
+Entity Extents Max: [73304.6 70619.8 0.0]
+-------------------------------------------------------------------
+Set Extents, CurrentSpace: 0
+    Min Point: 70873.4/68514.9
+    Max Point: 73304.6/70619.8
+*** Text String: {\fSimSun|b0|i0|c134|p2;BA\u00E7\u00B3\u00BB\u00E7\u00BB\u009F\u00E7\u00BD\u0091\u00E7\u00BB\u009C\u00E6\u0095\u00B0\u00E6\u008D\u00AE\u00E7\u0082\u00B9\u00E4\u00BD\u008D}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;BA\u7CFB\u7EDF\u7F51\u7EDC\u6570\u636E\u70B9\u4F4D}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;TDs}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;TDs}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;\u00E8\u0083\u00BD\u00E8\u0080\u0097\u00E7\u00B3\u00BB\u00E7\u00BB\u009F\u00E7\u00BD\u0091\u00E7\u00BB\u009C\u00E6\u0095\u00B0\u00E6\u008D\u00AE\u00E7\u0082\u00B9\u00E4\u00BD\u008D}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;\u80FD\u8017\u7CFB\u7EDF\u7F51\u7EDC\u6570\u636E\u70B9\u4F4D}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;TDs}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;TDs}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;\u00E6\u0099\u00BA\u00E8\u0083\u00BD\u00E7\u0085\u00A7\u00E6\u0098\u008E\u00E7\u00B3\u00BB\u00E7\u00BB\u009F\u00E7\u00BD\u0091\u00E7\u00BB\u009C\u00E6\u0095\u00B0\u00E6\u008D\u00AE\u00E7\u0082\u00B9\u00E4\u00BD\u008D}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;\u667A\u80FD\u7167\u660E\u7CFB\u7EDF\u7F51\u7EDC\u6570\u636E\u70B9\u4F4D}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;TDs}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;TDs}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+Entity Extents Min: [69957.6 73504.6 0.0]
+Entity Extents Max: [71453.3 73504.6 0.0]
+-------------------------------------------------------------------
+Set Extents, CurrentSpace: 0
+    Min Point: 69957.6/73504.6
+    Max Point: 71453.3/73504.6
+Entity Extents Min: [70873.4 64656.3 0.0]
+Entity Extents Max: [73304.6 66761.3 0.0]
+-------------------------------------------------------------------
+Set Extents, CurrentSpace: 0
+    Min Point: 70873.4/64656.3
+    Max Point: 73304.6/66761.3
+*** Text String: {\fSimSun|b0|i0|c134|p2;\u00E5\u00BC\u00B1\u00E7\u0094\u00B5\u00E7\u00BB\u00BC\u00E5\u0090\u0088\u00E7\u00BD\u0091\u00E6\u008E\u00A5\u00E5\u0085\u00A5\u00E4\u00BA\u00A4\u00E6\u008D\u00A2\u00E6\u009C\u00BA}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;\u5F31\u7535\u7EFC\u5408\u7F51\u63A5\u5165\u4EA4\u6362\u673A}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;BA\u00E7\u00B3\u00BB\u00E7\u00BB\u009F\u00E7\u00BD\u0091\u00E7\u00BB\u009C\u00E6\u0095\u00B0\u00E6\u008D\u00AE\u00E7\u0082\u00B9\u00E4\u00BD\u008D}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;BA\u7CFB\u7EDF\u7F51\u7EDC\u6570\u636E\u70B9\u4F4D}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;TDs}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;TDs}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;\u00E8\u0083\u00BD\u00E8\u0080\u0097\u00E7\u00B3\u00BB\u00E7\u00BB\u009F\u00E7\u00BD\u0091\u00E7\u00BB\u009C\u00E6\u0095\u00B0\u00E6\u008D\u00AE\u00E7\u0082\u00B9\u00E4\u00BD\u008D}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;\u80FD\u8017\u7CFB\u7EDF\u7F51\u7EDC\u6570\u636E\u70B9\u4F4D}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;TDs}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;TDs}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;\u00E6\u0099\u00BA\u00E8\u0083\u00BD\u00E7\u0085\u00A7\u00E6\u0098\u008E\u00E7\u00B3\u00BB\u00E7\u00BB\u009F\u00E7\u00BD\u0091\u00E7\u00BB\u009C\u00E6\u0095\u00B0\u00E6\u008D\u00AE\u00E7\u0082\u00B9\u00E4\u00BD\u008D}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;\u667A\u80FD\u7167\u660E\u7CFB\u7EDF\u7F51\u7EDC\u6570\u636E\u70B9\u4F4D}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;TDs}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;TDs}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+Entity Extents Min: [70873.4 61428.8 0.0]
+Entity Extents Max: [73304.6 63533.8 0.0]
+-------------------------------------------------------------------
+Set Extents, CurrentSpace: 0
+    Min Point: 70873.4/61428.8
+    Max Point: 73304.6/63533.8
+*** Text String: {\fSimSun|b0|i0|c134|p2;BA\u00E7\u00B3\u00BB\u00E7\u00BB\u009F\u00E7\u00BD\u0091\u00E7\u00BB\u009C\u00E6\u0095\u00B0\u00E6\u008D\u00AE\u00E7\u0082\u00B9\u00E4\u00BD\u008D}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;BA\u7CFB\u7EDF\u7F51\u7EDC\u6570\u636E\u70B9\u4F4D}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;TDs}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;TDs}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;\u00E8\u0083\u00BD\u00E8\u0080\u0097\u00E7\u00B3\u00BB\u00E7\u00BB\u009F\u00E7\u00BD\u0091\u00E7\u00BB\u009C\u00E6\u0095\u00B0\u00E6\u008D\u00AE\u00E7\u0082\u00B9\u00E4\u00BD\u008D}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;\u80FD\u8017\u7CFB\u7EDF\u7F51\u7EDC\u6570\u636E\u70B9\u4F4D}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;TDs}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;TDs}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;\u00E6\u0099\u00BA\u00E8\u0083\u00BD\u00E7\u0085\u00A7\u00E6\u0098\u008E\u00E7\u00B3\u00BB\u00E7\u00BB\u009F\u00E7\u00BD\u0091\u00E7\u00BB\u009C\u00E6\u0095\u00B0\u00E6\u008D\u00AE\u00E7\u0082\u00B9\u00E4\u00BD\u008D}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;\u667A\u80FD\u7167\u660E\u7CFB\u7EDF\u7F51\u7EDC\u6570\u636E\u70B9\u4F4D}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;TDs}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;TDs}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+Entity Extents Min: [69426.8 66418.5 0.0]
+Entity Extents Max: [71453.3 66418.5 0.0]
+-------------------------------------------------------------------
+Set Extents, CurrentSpace: 0
+    Min Point: 69426.8/66418.5
+    Max Point: 71453.3/66418.5
+Entity Extents Min: [70873.4 57047.7 0.0]
+Entity Extents Max: [73304.6 59152.6 0.0]
+-------------------------------------------------------------------
+Set Extents, CurrentSpace: 0
+    Min Point: 70873.4/57047.7
+    Max Point: 73304.6/59152.6
+*** Text String: {\fSimSun|b0|i0|c134|p2;\u00E5\u00BC\u00B1\u00E7\u0094\u00B5\u00E7\u00BB\u00BC\u00E5\u0090\u0088\u00E7\u00BD\u0091\u00E6\u008E\u00A5\u00E5\u0085\u00A5\u00E4\u00BA\u00A4\u00E6\u008D\u00A2\u00E6\u009C\u00BA}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;\u5F31\u7535\u7EFC\u5408\u7F51\u63A5\u5165\u4EA4\u6362\u673A}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;BA\u00E7\u00B3\u00BB\u00E7\u00BB\u009F\u00E7\u00BD\u0091\u00E7\u00BB\u009C\u00E6\u0095\u00B0\u00E6\u008D\u00AE\u00E7\u0082\u00B9\u00E4\u00BD\u008D}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;BA\u7CFB\u7EDF\u7F51\u7EDC\u6570\u636E\u70B9\u4F4D}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;TDs}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;TDs}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;\u00E8\u0083\u00BD\u00E8\u0080\u0097\u00E7\u00B3\u00BB\u00E7\u00BB\u009F\u00E7\u00BD\u0091\u00E7\u00BB\u009C\u00E6\u0095\u00B0\u00E6\u008D\u00AE\u00E7\u0082\u00B9\u00E4\u00BD\u008D}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;\u80FD\u8017\u7CFB\u7EDF\u7F51\u7EDC\u6570\u636E\u70B9\u4F4D}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;TDs}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;TDs}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;\u00E6\u0099\u00BA\u00E8\u0083\u00BD\u00E7\u0085\u00A7\u00E6\u0098\u008E\u00E7\u00B3\u00BB\u00E7\u00BB\u009F\u00E7\u00BD\u0091\u00E7\u00BB\u009C\u00E6\u0095\u00B0\u00E6\u008D\u00AE\u00E7\u0082\u00B9\u00E4\u00BD\u008D}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;\u667A\u80FD\u7167\u660E\u7CFB\u7EDF\u7F51\u7EDC\u6570\u636E\u70B9\u4F4D}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;TDs}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;TDs}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+Entity Extents Min: [70873.4 53820.2 0.0]
+Entity Extents Max: [73304.6 55925.2 0.0]
+-------------------------------------------------------------------
+Set Extents, CurrentSpace: 0
+    Min Point: 70873.4/53820.2
+    Max Point: 73304.6/55925.2
+*** Text String: {\fSimSun|b0|i0|c134|p2;BA\u00E7\u00B3\u00BB\u00E7\u00BB\u009F\u00E7\u00BD\u0091\u00E7\u00BB\u009C\u00E6\u0095\u00B0\u00E6\u008D\u00AE\u00E7\u0082\u00B9\u00E4\u00BD\u008D}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;BA\u7CFB\u7EDF\u7F51\u7EDC\u6570\u636E\u70B9\u4F4D}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;TDs}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;TDs}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;\u00E8\u0083\u00BD\u00E8\u0080\u0097\u00E7\u00B3\u00BB\u00E7\u00BB\u009F\u00E7\u00BD\u0091\u00E7\u00BB\u009C\u00E6\u0095\u00B0\u00E6\u008D\u00AE\u00E7\u0082\u00B9\u00E4\u00BD\u008D}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;\u80FD\u8017\u7CFB\u7EDF\u7F51\u7EDC\u6570\u636E\u70B9\u4F4D}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;TDs}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;TDs}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;\u00E6\u0099\u00BA\u00E8\u0083\u00BD\u00E7\u0085\u00A7\u00E6\u0098\u008E\u00E7\u00B3\u00BB\u00E7\u00BB\u009F\u00E7\u00BD\u0091\u00E7\u00BB\u009C\u00E6\u0095\u00B0\u00E6\u008D\u00AE\u00E7\u0082\u00B9\u00E4\u00BD\u008D}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;\u667A\u80FD\u7167\u660E\u7CFB\u7EDF\u7F51\u7EDC\u6570\u636E\u70B9\u4F4D}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;TDs}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;TDs}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+Entity Extents Min: [68980.7 58809.9 0.0]
+Entity Extents Max: [71453.3 58809.9 0.0]
+-------------------------------------------------------------------
+Set Extents, CurrentSpace: 0
+    Min Point: 68980.7/58809.9
+    Max Point: 71453.3/58809.9
+*** Text String: {\fSimSun|b0|i0|c134|p2;\u00E4\u00B8\u0089\u00E6\u0081\u0092\u00E7\u00B3\u00BB\u00E7\u00BB\u009F\u00E7\u00BD\u0091\u00E7\u00BB\u009C\u00E6\u0095\u00B0\u00E6\u008D\u00AE\u00E7\u0082\u00B9\u00E4\u00BD\u008D}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;\u4E09\u6052\u7CFB\u7EDF\u7F51\u7EDC\u6570\u636E\u70B9\u4F4D}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;TDs}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;TDs}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;\u00E4\u00B8\u0089\u00E6\u0081\u0092\u00E7\u00B3\u00BB\u00E7\u00BB\u009F\u00E7\u00BD\u0091\u00E7\u00BB\u009C\u00E6\u0095\u00B0\u00E6\u008D\u00AE\u00E7\u0082\u00B9\u00E4\u00BD\u008D}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;\u4E09\u6052\u7CFB\u7EDF\u7F51\u7EDC\u6570\u636E\u70B9\u4F4D}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+Entity Extents Min: [74385.5 53810.6 0.0]
+Entity Extents Max: [74860.3 54178.2 0.0]
+-------------------------------------------------------------------
+Set Extents, CurrentSpace: 0
+    Min Point: 74385.5/53810.6
+    Max Point: 74860.3/54178.2
+*** Text String: {\fSimSun|b0|i0|c134|p2;TDs}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;TDs}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;\u00E5\u00BC\u00B1\u00E7\u0094\u00B5\u00E7\u00BB\u00BC\u00E5\u0090\u0088\u00E7\u00BD\u0091\u00E6\u008E\u00A5\u00E5\u0085\u00A5\u00E4\u00BA\u00A4\u00E6\u008D\u00A2\u00E6\u009C\u00BA}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;\u5F31\u7535\u7EFC\u5408\u7F51\u63A5\u5165\u4EA4\u6362\u673A}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;BA\u00E7\u00B3\u00BB\u00E7\u00BB\u009F\u00E7\u00BD\u0091\u00E7\u00BB\u009C\u00E6\u0095\u00B0\u00E6\u008D\u00AE\u00E7\u0082\u00B9\u00E4\u00BD\u008D}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;BA\u7CFB\u7EDF\u7F51\u7EDC\u6570\u636E\u70B9\u4F4D}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;TDs}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;TDs}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;\u00E8\u0083\u00BD\u00E8\u0080\u0097\u00E7\u00B3\u00BB\u00E7\u00BB\u009F\u00E7\u00BD\u0091\u00E7\u00BB\u009C\u00E6\u0095\u00B0\u00E6\u008D\u00AE\u00E7\u0082\u00B9\u00E4\u00BD\u008D}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;\u80FD\u8017\u7CFB\u7EDF\u7F51\u7EDC\u6570\u636E\u70B9\u4F4D}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;TDs}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;TDs}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;\u00E6\u0099\u00BA\u00E8\u0083\u00BD\u00E7\u0085\u00A7\u00E6\u0098\u008E\u00E7\u00B3\u00BB\u00E7\u00BB\u009F\u00E7\u00BD\u0091\u00E7\u00BB\u009C\u00E6\u0095\u00B0\u00E6\u008D\u00AE\u00E7\u0082\u00B9\u00E4\u00BD\u008D}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;\u667A\u80FD\u7167\u660E\u7CFB\u7EDF\u7F51\u7EDC\u6570\u636E\u70B9\u4F4D}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;TDs}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;TDs}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;BA\u00E7\u00B3\u00BB\u00E7\u00BB\u009F\u00E7\u00BD\u0091\u00E7\u00BB\u009C\u00E6\u0095\u00B0\u00E6\u008D\u00AE\u00E7\u0082\u00B9\u00E4\u00BD\u008D}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;BA\u7CFB\u7EDF\u7F51\u7EDC\u6570\u636E\u70B9\u4F4D}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;TDs}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;TDs}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;\u00E8\u0083\u00BD\u00E8\u0080\u0097\u00E7\u00B3\u00BB\u00E7\u00BB\u009F\u00E7\u00BD\u0091\u00E7\u00BB\u009C\u00E6\u0095\u00B0\u00E6\u008D\u00AE\u00E7\u0082\u00B9\u00E4\u00BD\u008D}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;\u80FD\u8017\u7CFB\u7EDF\u7F51\u7EDC\u6570\u636E\u70B9\u4F4D}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;TDs}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;TDs}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;\u00E6\u0099\u00BA\u00E8\u0083\u00BD\u00E7\u0085\u00A7\u00E6\u0098\u008E\u00E7\u00B3\u00BB\u00E7\u00BB\u009F\u00E7\u00BD\u0091\u00E7\u00BB\u009C\u00E6\u0095\u00B0\u00E6\u008D\u00AE\u00E7\u0082\u00B9\u00E4\u00BD\u008D}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;\u667A\u80FD\u7167\u660E\u7CFB\u7EDF\u7F51\u7EDC\u6570\u636E\u70B9\u4F4D}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;TDs}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;TDs}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;\u00E5\u00BC\u00B1\u00E7\u0094\u00B5\u00E7\u00BB\u00BC\u00E5\u0090\u0088\u00E7\u00BD\u0091\u00E6\u008E\u00A5\u00E5\u0085\u00A5\u00E4\u00BA\u00A4\u00E6\u008D\u00A2\u00E6\u009C\u00BA}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;\u5F31\u7535\u7EFC\u5408\u7F51\u63A5\u5165\u4EA4\u6362\u673A}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;BA\u00E7\u00B3\u00BB\u00E7\u00BB\u009F\u00E7\u00BD\u0091\u00E7\u00BB\u009C\u00E6\u0095\u00B0\u00E6\u008D\u00AE\u00E7\u0082\u00B9\u00E4\u00BD\u008D}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;BA\u7CFB\u7EDF\u7F51\u7EDC\u6570\u636E\u70B9\u4F4D}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;TDs}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;TDs}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;\u00E8\u0083\u00BD\u00E8\u0080\u0097\u00E7\u00B3\u00BB\u00E7\u00BB\u009F\u00E7\u00BD\u0091\u00E7\u00BB\u009C\u00E6\u0095\u00B0\u00E6\u008D\u00AE\u00E7\u0082\u00B9\u00E4\u00BD\u008D}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;\u80FD\u8017\u7CFB\u7EDF\u7F51\u7EDC\u6570\u636E\u70B9\u4F4D}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;TDs}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;TDs}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;\u00E6\u0099\u00BA\u00E8\u0083\u00BD\u00E7\u0085\u00A7\u00E6\u0098\u008E\u00E7\u00B3\u00BB\u00E7\u00BB\u009F\u00E7\u00BD\u0091\u00E7\u00BB\u009C\u00E6\u0095\u00B0\u00E6\u008D\u00AE\u00E7\u0082\u00B9\u00E4\u00BD\u008D}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;\u667A\u80FD\u7167\u660E\u7CFB\u7EDF\u7F51\u7EDC\u6570\u636E\u70B9\u4F4D}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;TDs}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;TDs}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;BA\u00E7\u00B3\u00BB\u00E7\u00BB\u009F\u00E7\u00BD\u0091\u00E7\u00BB\u009C\u00E6\u0095\u00B0\u00E6\u008D\u00AE\u00E7\u0082\u00B9\u00E4\u00BD\u008D}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;BA\u7CFB\u7EDF\u7F51\u7EDC\u6570\u636E\u70B9\u4F4D}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;TDs}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;TDs}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;\u00E8\u0083\u00BD\u00E8\u0080\u0097\u00E7\u00B3\u00BB\u00E7\u00BB\u009F\u00E7\u00BD\u0091\u00E7\u00BB\u009C\u00E6\u0095\u00B0\u00E6\u008D\u00AE\u00E7\u0082\u00B9\u00E4\u00BD\u008D}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;\u80FD\u8017\u7CFB\u7EDF\u7F51\u7EDC\u6570\u636E\u70B9\u4F4D}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;TDs}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;TDs}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;\u00E6\u0099\u00BA\u00E8\u0083\u00BD\u00E7\u0085\u00A7\u00E6\u0098\u008E\u00E7\u00B3\u00BB\u00E7\u00BB\u009F\u00E7\u00BD\u0091\u00E7\u00BB\u009C\u00E6\u0095\u00B0\u00E6\u008D\u00AE\u00E7\u0082\u00B9\u00E4\u00BD\u008D}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;\u667A\u80FD\u7167\u660E\u7CFB\u7EDF\u7F51\u7EDC\u6570\u636E\u70B9\u4F4D}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;TDs}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;TDs}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;\u00E5\u00BC\u00B1\u00E7\u0094\u00B5\u00E7\u00BB\u00BC\u00E5\u0090\u0088\u00E7\u00BD\u0091\u00E6\u008E\u00A5\u00E5\u0085\u00A5\u00E4\u00BA\u00A4\u00E6\u008D\u00A2\u00E6\u009C\u00BA}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;\u5F31\u7535\u7EFC\u5408\u7F51\u63A5\u5165\u4EA4\u6362\u673A}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;BA\u00E7\u00B3\u00BB\u00E7\u00BB\u009F\u00E7\u00BD\u0091\u00E7\u00BB\u009C\u00E6\u0095\u00B0\u00E6\u008D\u00AE\u00E7\u0082\u00B9\u00E4\u00BD\u008D}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;BA\u7CFB\u7EDF\u7F51\u7EDC\u6570\u636E\u70B9\u4F4D}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;TDs}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;TDs}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;\u00E8\u0083\u00BD\u00E8\u0080\u0097\u00E7\u00B3\u00BB\u00E7\u00BB\u009F\u00E7\u00BD\u0091\u00E7\u00BB\u009C\u00E6\u0095\u00B0\u00E6\u008D\u00AE\u00E7\u0082\u00B9\u00E4\u00BD\u008D}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;\u80FD\u8017\u7CFB\u7EDF\u7F51\u7EDC\u6570\u636E\u70B9\u4F4D}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;TDs}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;TDs}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;\u00E6\u0099\u00BA\u00E8\u0083\u00BD\u00E7\u0085\u00A7\u00E6\u0098\u008E\u00E7\u00B3\u00BB\u00E7\u00BB\u009F\u00E7\u00BD\u0091\u00E7\u00BB\u009C\u00E6\u0095\u00B0\u00E6\u008D\u00AE\u00E7\u0082\u00B9\u00E4\u00BD\u008D}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;\u667A\u80FD\u7167\u660E\u7CFB\u7EDF\u7F51\u7EDC\u6570\u636E\u70B9\u4F4D}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;TDs}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;TDs}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;BA\u00E7\u00B3\u00BB\u00E7\u00BB\u009F\u00E7\u00BD\u0091\u00E7\u00BB\u009C\u00E6\u0095\u00B0\u00E6\u008D\u00AE\u00E7\u0082\u00B9\u00E4\u00BD\u008D}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;BA\u7CFB\u7EDF\u7F51\u7EDC\u6570\u636E\u70B9\u4F4D}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;TDs}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;TDs}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;\u00E8\u0083\u00BD\u00E8\u0080\u0097\u00E7\u00B3\u00BB\u00E7\u00BB\u009F\u00E7\u00BD\u0091\u00E7\u00BB\u009C\u00E6\u0095\u00B0\u00E6\u008D\u00AE\u00E7\u0082\u00B9\u00E4\u00BD\u008D}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;\u80FD\u8017\u7CFB\u7EDF\u7F51\u7EDC\u6570\u636E\u70B9\u4F4D}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;TDs}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;TDs}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;\u00E6\u0099\u00BA\u00E8\u0083\u00BD\u00E7\u0085\u00A7\u00E6\u0098\u008E\u00E7\u00B3\u00BB\u00E7\u00BB\u009F\u00E7\u00BD\u0091\u00E7\u00BB\u009C\u00E6\u0095\u00B0\u00E6\u008D\u00AE\u00E7\u0082\u00B9\u00E4\u00BD\u008D}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;\u667A\u80FD\u7167\u660E\u7CFB\u7EDF\u7F51\u7EDC\u6570\u636E\u70B9\u4F4D}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;TDs}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;TDs}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;\u00E4\u00B8\u0089\u00E6\u0081\u0092\u00E7\u00B3\u00BB\u00E7\u00BB\u009F\u00E7\u00BD\u0091\u00E7\u00BB\u009C\u00E6\u0095\u00B0\u00E6\u008D\u00AE\u00E7\u0082\u00B9\u00E4\u00BD\u008D}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;\u4E09\u6052\u7CFB\u7EDF\u7F51\u7EDC\u6570\u636E\u70B9\u4F4D}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;TDs}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;TDs}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;\u00E4\u00B8\u0089\u00E6\u0081\u0092\u00E7\u00B3\u00BB\u00E7\u00BB\u009F\u00E7\u00BD\u0091\u00E7\u00BB\u009C\u00E6\u0095\u00B0\u00E6\u008D\u00AE\u00E7\u0082\u00B9\u00E4\u00BD\u008D}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;\u4E09\u6052\u7CFB\u7EDF\u7F51\u7EDC\u6570\u636E\u70B9\u4F4D}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+*** Text String: {\fSimSun|b0|i0|c134|p2;TDs}
+*** MText TextStyle: lszt
+*** MText TypeFace: 
+*** MText FileName: romans2.shx
+*** MText BigFileName: dfhz1.shx
+*** MText String: {\fSimSun|b0|i0|c134|p2;TDs}
+------------------- textProc ---------------------
+-----------------------------------------
+Font Name:  SimSun
+Style Name:  
+BigFont Name:  
+isTtfFont?: true
+-----------------------------------------
+Checking SimSun against archs
+Checking SimSun against b_gb2312
+Checking SimSun against b体
+Checking SimSun against fangsong
+Checking SimSun against fangsong_gb2312
+Checking SimSun against nsimsun
+Checking SimSun against romans.shx
+Checking SimSun against romanx.shx
+Checking SimSun against 仿宋_GB2312
+Checking simsun against archs
+Checking simsun against b_gb2312
+Checking simsun against b体
+Checking simsun against fangsong
+Checking simsun against fangsong_gb2312
+Checking simsun against nsimsun
+Checking simsun against romans.shx
+Checking simsun against romanx.shx
+Checking simsun against 仿宋_GB2312
+Mapped Font   -  typeface : SimSun    fontFileName : simsun
+     Using Font Name: SimSun
+Release Layout Helper
+CheckExistingPoints
+Exit ConvertToVectorByView
+Save View Settings
+Add Demo Stamp
+Output Drawing
+scaleFactor: 0.0393701
+scale: 0.120201
+View: ModelSpace
+       Extents: 3818.14/11179.1  4940.6/14403.8
+Scale: 0.767069
+DX: 1122.45    DY: 3224.77
+SX: 0.767069    SY: 0.77525
+
+Existing Frame
+CX: 4379.37    CY: 12791.5
+LLX: 3948.87    LLY: 11554.6
+
+Recentered Frame
+CX: 430.5    CY: 1250
+LLX: 0    LLY: 13.1899
+       Extents: 0/13.1899  861/2486.81
+       ViewBox: 3818.14/11179.1  4940.6/14403.8
+       ViewBox: 0/13.1899  861/2486.81
+OutputDrawing
+Standardize Layer Names
+Process RoomLayer/TextLayer
+Set Base Drawing Name
+Open Output File: /opt/cadviewer-conversion-server/converters/ax2024/linux/Drawing2-log-fpath-model-onelevelup-lpath-xpath
+Line Width Scale: 1
+Text Font: SimSun
+-------------------------------
+Font:          simsun, helvetica, sans-serif
+Original Font: 
+Default Font:  simsun
+Text Font: SIMSUN
+-------------------------------
+Font:          simsun, helvetica, sans-serif
+Original Font: 
+Default Font:  simsun
+Text Font: SIMSUN
+-------------------------------
+Font:          simsun, helvetica, sans-serif
+Original Font: 
+Default Font:  simsun
+  Close File
+Done With SVG Trailer
+In ResetFile SVG
+Garbage Collection
+ Exit Convert: 0
+Release Database Pointer
